@@ -1,4 +1,8 @@
 # 업무 컴퓨터 수량 파악
+# 근무시간 * 컴퓨터 수
+# 8 * 3 = hour * computer
+# computer = 8 * 3 / hour
+
 import math
 
 hour = int(input('근무시간을 입력하세요. '))
